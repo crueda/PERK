@@ -1,0 +1,141 @@
+[2012-04-24 10:21:27,154] INFO com.deimos.controlrondas.netty.server.Server.main(Server.java:25) - Iniciamos la aplicacion
+[2012-04-24 10:59:14,512] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:50) - Nueva conexion del ID_Device: 99955511
+[2012-04-24 10:59:14,611] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:46) - Mensaje EM_CARD recibido
+[2012-04-24 10:59:15,097] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:132) - Cambiamos al vigilante Vigilante Parque Boecillo
+[2012-04-24 11:02:14,214] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:50) - Nueva conexion del ID_Device: 99955511
+[2012-04-24 11:02:14,223] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:46) - Mensaje EM_CARD recibido
+[2012-04-24 11:02:14,249] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:132) - Cambiamos al vigilante Iago Díaz Manzano
+[2012-04-24 11:03:31,539] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:50) - Nueva conexion del ID_Device: 99955511
+[2012-04-24 11:03:31,539] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-24 11:03:31,539] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515641; Lon: -4.721173; Date: 240412; GMT-0: 090300
+[2012-04-24 11:03:31,539] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:46) - Mensaje EM_CARD recibido
+[2012-04-24 11:03:31,569] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:132) - Cambiamos al vigilante Vigilante 1A
+[2012-04-24 11:04:27,771] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:50) - Nueva conexion del ID_Device: 99955511
+[2012-04-24 11:04:27,771] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:46) - Mensaje EM_CARD recibido
+[2012-04-24 11:04:28,953] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:99) - WS con 99955511/00245397 a Kyros
+[2012-04-24 11:06:19,915] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:50) - Nueva conexion del ID_Device: 99955511
+[2012-04-24 11:06:19,925] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:46) - Mensaje EM_CARD recibido
+[2012-04-24 11:06:19,945]ERROR com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:128) - No se ha encontrado 002472d7 en la base de datos. Ni vigilante ni beacon
+[2012-04-24 11:10:51,931] INFO com.deimos.controlrondas.netty.server.Server.main(Server.java:25) - Iniciamos la aplicacion
+[2012-04-24 11:11:01,615] INFO com.deimos.controlrondas.netty.server.Server.main(Server.java:25) - Iniciamos la aplicacion
+[2012-04-24 11:11:29,385] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:50) - Nueva conexion del ID_Device: 99955511
+[2012-04-24 11:11:29,395] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-24 11:11:29,395] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515791; Lon: -4.72127; Date: 240412; GMT-0: 090649
+[2012-04-24 11:11:29,395] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:46) - Mensaje EM_CARD recibido
+[2012-04-24 11:11:29,643] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:132) - Cambiamos al vigilante Vigilante 1A
+[2012-04-24 11:11:29,643] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:46) - Mensaje EM_CARD recibido
+[2012-04-24 11:11:29,673] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:132) - Cambiamos al vigilante Vigilante 1A
+[2012-04-24 11:11:29,673] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:46) - Mensaje EM_CARD recibido
+[2012-04-24 11:11:29,693] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:132) - Cambiamos al vigilante Vigilante 1A
+[2012-04-24 11:11:29,703] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:46) - Mensaje EM_CARD recibido
+[2012-04-24 11:11:29,732] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:132) - Cambiamos al vigilante Vigilante 1A
+[2012-04-24 11:11:29,732] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:46) - Mensaje EM_CARD recibido
+[2012-04-24 11:11:29,762] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:132) - Cambiamos al vigilante Vigilante 1A
+[2012-04-24 11:11:29,762] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:46) - Mensaje EM_CARD recibido
+[2012-04-24 11:11:29,792] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:132) - Cambiamos al vigilante Vigilante 1A
+[2012-04-24 11:11:31,448] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:50) - Nueva conexion del ID_Device: 99955511
+[2012-04-24 11:11:31,448] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-24 11:11:31,448] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515751; Lon: -4.721473; Date: 240412; GMT-0: 091114
+[2012-04-24 11:16:55,398] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:58) - El dispositivo ha pedido una sincronización de tiempo
+[2012-04-24 11:16:55,398] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:60) - La identificacion de la trama de sincronización es correcta
+[2012-04-24 11:16:57,232] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:39) - Nueva conexion del ID_Device: 987654
+[2012-04-24 11:16:57,272] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-24 11:16:57,282] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:78) - GuardID: 000000000000
+[2012-04-24 11:16:57,282] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:81) - Button: 000001cab6f0; Date: 240412; GMT-0: 091616
+[2012-04-24 11:16:57,302] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:132) - Cambiamos al vigilante Vigilante 1B
+[2012-04-24 11:18:27,315] INFO com.deimos.controlrondas.netty.server.Server.main(Server.java:25) - Iniciamos la aplicacion
+[2012-04-24 11:18:43,023] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:39) - Nueva conexion del ID_Device: 987654
+[2012-04-24 11:18:43,023] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-24 11:18:43,023] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:81) - Button: 000001c793f0; Date: 240412; GMT-0: 091742
+[2012-04-24 11:18:43,314] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:132) - Cambiamos al vigilante Vigilante 2B
+[2012-04-24 11:25:19,974] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:58) - El dispositivo ha pedido una sincronización de tiempo
+[2012-04-24 11:25:19,974] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:60) - La identificacion de la trama de sincronización es correcta
+[2012-04-24 11:25:21,690] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:39) - Nueva conexion del ID_Device: 987654
+[2012-04-24 11:25:21,690] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-24 11:25:21,690] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:81) - Button: 000001c793f0; Date: 240412; GMT-0: 092325
+[2012-04-24 11:25:21,712] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:132) - Cambiamos al vigilante Vigilante 2B
+[2012-04-24 11:25:21,712] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-24 11:25:21,723] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:81) - Button: 000001c793f0; Date: 240412; GMT-0: 092412
+[2012-04-24 11:25:21,744] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:132) - Cambiamos al vigilante Vigilante 2B
+[2012-04-24 11:25:21,744] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-24 11:25:21,744] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:81) - Button: 0000143f0e5b; Date: 240412; GMT-0: 092420
+[2012-04-24 11:25:22,187] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:99) - WS con 987654/0000143f0e5b a Kyros
+[2012-04-24 11:25:22,187] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-24 11:25:22,187] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:81) - Button: 0000143f4fd9; Date: 240412; GMT-0: 092431
+[2012-04-24 11:25:22,273] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:99) - WS con 987654/0000143f4fd9 a Kyros
+[2012-04-24 11:25:59,248] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:50) - Nueva conexion del ID_Device: 99955511
+[2012-04-24 11:25:59,248] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-24 11:25:59,258] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.51578; Lon: -4.721348; Date: 240412; GMT-0: 091347
+[2012-04-24 11:25:59,258] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-24 11:25:59,258] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515516; Lon: -4.721296; Date: 240412; GMT-0: 091547
+[2012-04-24 11:25:59,258] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-24 11:25:59,258] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515846; Lon: -4.721218; Date: 240412; GMT-0: 091747
+[2012-04-24 11:25:59,258] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-24 11:25:59,258] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.516005; Lon: -4.721103; Date: 240412; GMT-0: 091947
+[2012-04-24 11:25:59,258] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-24 11:25:59,268] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515695; Lon: -4.721075; Date: 240412; GMT-0: 092147
+[2012-04-24 11:25:59,268] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-24 11:25:59,268] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515851; Lon: -4.721148; Date: 240412; GMT-0: 092347
+[2012-04-24 11:25:59,268] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-24 11:25:59,268] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515836; Lon: -4.721331; Date: 240412; GMT-0: 092547
+[2012-04-24 11:28:34,784] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:39) - Nueva conexion del ID_Device: 987654
+[2012-04-24 11:28:34,784] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-24 11:28:34,784] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:81) - Button: 000001c478d6; Date: 240412; GMT-0: 092819
+[2012-04-24 11:28:34,806] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:122) - Mandamos trama GPRMC a Kyros: $GPRMC,092819.000,A,4131.194666667000206,N,00443.22316666699999,W,0.0,0.0,240412,,
+
+[2012-04-24 12:03:04,287] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:50) - Nueva conexion del ID_Device: 99955511
+[2012-04-24 12:03:04,287] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-24 12:03:04,287] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515796; Lon: -4.721246; Date: 240412; GMT-0: 092813
+[2012-04-24 12:03:04,287] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-24 12:03:04,297] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.51581; Lon: -4.721153; Date: 240412; GMT-0: 093013
+[2012-04-24 12:03:04,297] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-24 12:03:04,297] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515851; Lon: -4.721076; Date: 240412; GMT-0: 093213
+[2012-04-24 12:03:04,297] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-24 12:03:04,297] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515743; Lon: -4.721111; Date: 240412; GMT-0: 093413
+[2012-04-24 12:03:04,297] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-24 12:03:04,297] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515775; Lon: -4.721041; Date: 240412; GMT-0: 093613
+[2012-04-24 12:03:04,297] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-24 12:03:04,307] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515756; Lon: -4.721008; Date: 240412; GMT-0: 093813
+[2012-04-24 12:03:04,307] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:46) - Mensaje EM_CARD recibido
+[2012-04-24 12:03:04,505] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:99) - WS con 99955511/00245397 a Kyros
+[2012-04-24 12:04:53,353] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:58) - El dispositivo ha pedido una sincronización de tiempo
+[2012-04-24 12:04:53,353] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:60) - La identificacion de la trama de sincronización es correcta
+[2012-04-24 12:04:55,005] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:39) - Nueva conexion del ID_Device: 987654
+[2012-04-24 12:04:55,005] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-24 12:04:55,005] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:81) - Button: 0000143f0e5b; Date: 240412; GMT-0: 100337
+[2012-04-24 12:04:55,115] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:99) - WS con 987654/0000143f0e5b a Kyros
+[2012-04-24 12:04:55,115] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-24 12:04:55,115] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:81) - Button: 0000143f0e5b; Date: 240412; GMT-0: 100340
+[2012-04-24 12:04:55,206] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:99) - WS con 987654/0000143f0e5b a Kyros
+[2012-04-24 12:04:55,206] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-24 12:04:55,206] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:81) - Button: 0000143f0e5b; Date: 240412; GMT-0: 100341
+[2012-04-24 12:04:55,286] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:99) - WS con 987654/0000143f0e5b a Kyros
+[2012-04-24 12:04:55,286] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-24 12:04:55,286] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:81) - Button: 0000143f0e5b; Date: 240412; GMT-0: 100342
+[2012-04-24 12:04:55,386] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:99) - WS con 987654/0000143f0e5b a Kyros
+[2012-04-24 12:04:55,386] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-24 12:04:55,386] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:81) - Button: 0000143f0e5b; Date: 240412; GMT-0: 100346
+[2012-04-24 12:04:55,476] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:99) - WS con 987654/0000143f0e5b a Kyros
+[2012-04-24 12:04:56,878] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:39) - Nueva conexion del ID_Device: 987654
+[2012-04-24 12:04:56,878] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-24 12:04:56,878] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:81) - Button: 0000143f0e5b; Date: 240412; GMT-0: 100347
+[2012-04-24 12:04:56,978] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:99) - WS con 987654/0000143f0e5b a Kyros
+[2012-04-24 12:04:56,978] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-24 12:04:56,978] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:81) - Button: 0000143f0e5b; Date: 240412; GMT-0: 100348
+[2012-04-24 12:04:57,058] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:99) - WS con 987654/0000143f0e5b a Kyros
+[2012-04-24 12:04:57,058] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-24 12:04:57,058] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:81) - Button: 0000143f0e5b; Date: 240412; GMT-0: 100350
+[2012-04-24 12:04:57,198] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:99) - WS con 987654/0000143f0e5b a Kyros
+[2012-04-24 12:04:57,198] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-24 12:04:57,198] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:81) - Button: 0000143f0e5b; Date: 240412; GMT-0: 100351
+[2012-04-24 12:04:57,299] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:99) - WS con 987654/0000143f0e5b a Kyros
+[2012-04-24 12:04:57,299] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-24 12:04:57,299] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:81) - Button: 0000143f0e5b; Date: 240412; GMT-0: 100353
+[2012-04-24 12:04:57,369] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:99) - WS con 987654/0000143f0e5b a Kyros
+[2012-04-24 12:04:58,841] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:39) - Nueva conexion del ID_Device: 987654
+[2012-04-24 12:04:58,841] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-24 12:04:58,841] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:81) - Button: 0000143f0e5b; Date: 240412; GMT-0: 100354
+[2012-04-24 12:04:58,921] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:99) - WS con 987654/0000143f0e5b a Kyros
+[2012-04-24 12:04:58,921] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-24 12:04:58,921] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:81) - Button: 0000143f0e5b; Date: 240412; GMT-0: 100356
+[2012-04-24 12:04:59,021] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:99) - WS con 987654/0000143f0e5b a Kyros

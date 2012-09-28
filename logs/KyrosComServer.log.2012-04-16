@@ -1,0 +1,113 @@
+[2012-04-16 13:48:21,335]ERROR com.deimos.controlrondas.netty.server.MessageHandlerChino.getDeviceID(MessageHandlerChino.java:129) - Error: java.lang.ArrayIndexOutOfBoundsException: 6
+[2012-04-16 14:02:11,689] INFO com.deimos.controlrondas.netty.server.MessageHandlerChino.execute(MessageHandlerChino.java:40) - Nueva conexion del ID_Device: 2147483647
+[2012-04-16 14:03:21,089] INFO com.deimos.controlrondas.netty.server.MessageHandlerChino.execute(MessageHandlerChino.java:40) - Nueva conexion del ID_Device: 121211
+[2012-04-16 14:16:56,581] INFO com.deimos.controlrondas.netty.server.MessageHandlerChino.execute(MessageHandlerChino.java:41) - Nueva conexion del ID_Device: 121212
+[2012-04-16 14:16:56,581] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:16) - NORMAL_RECORD recibido
+[2012-04-16 14:16:56,581] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:25) - Mensaje vacío recibido
+[2012-04-16 14:16:56,581] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:25) - Mensaje vacío recibido
+[2012-04-16 14:16:56,581] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:25) - Mensaje vacío recibido
+[2012-04-16 14:16:56,581] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:25) - Mensaje vacío recibido
+[2012-04-16 14:17:26,755] INFO com.deimos.controlrondas.netty.server.MessageHandlerChino.execute(MessageHandlerChino.java:41) - Nueva conexion del ID_Device: 121212
+[2012-04-16 14:17:26,755] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:16) - NORMAL_RECORD recibido
+[2012-04-16 14:17:26,755] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:16) - NORMAL_RECORD recibido
+[2012-04-16 14:17:26,755] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:16) - NORMAL_RECORD recibido
+[2012-04-16 14:17:26,755] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:25) - Mensaje vacío recibido
+[2012-04-16 14:17:26,755] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:25) - Mensaje vacío recibido
+[2012-04-16 14:17:57,419] INFO com.deimos.controlrondas.netty.server.MessageHandlerChino.execute(MessageHandlerChino.java:41) - Nueva conexion del ID_Device: 121212
+[2012-04-16 14:17:57,419] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:19) - ALARM_RECORD recibido
+[2012-04-16 14:26:26,641] INFO com.deimos.controlrondas.netty.server.MessageHandlerChino.execute(MessageHandlerChino.java:41) - Nueva conexion del ID_Device: 121212
+[2012-04-16 14:26:26,691] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:52) - Date: 140214; GMT-0: 080412
+[2012-04-16 14:26:26,691] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:24) - NORMAL_RECORD recibido
+[2012-04-16 14:26:26,701] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:33) - Mensaje vacío recibido
+[2012-04-16 14:26:26,701] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:33) - Mensaje vacío recibido
+[2012-04-16 14:26:26,701] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:33) - Mensaje vacío recibido
+[2012-04-16 14:26:26,711] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:33) - Mensaje vacío recibido
+[2012-04-16 14:28:17,160] INFO com.deimos.controlrondas.netty.server.MessageHandlerChino.execute(MessageHandlerChino.java:41) - Nueva conexion del ID_Device: 987654
+[2012-04-16 14:28:17,190] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:52) - Date: 140403; GMT-0: 080412
+[2012-04-16 14:28:17,190] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:24) - NORMAL_RECORD recibido
+[2012-04-16 14:28:17,190] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:33) - Mensaje vacío recibido
+[2012-04-16 14:28:17,190] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:33) - Mensaje vacío recibido
+[2012-04-16 14:28:17,190] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:33) - Mensaje vacío recibido
+[2012-04-16 14:28:17,190] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:33) - Mensaje vacío recibido
+[2012-04-16 14:34:12,050] WARN com.deimos.controlrondas.netty.server.MessageHandlerChino.execute(MessageHandlerChino.java:63) - Se ha recibido un mensaje de un dispositivo desconocido
+[2012-04-16 14:34:14,984] INFO com.deimos.controlrondas.netty.server.MessageHandlerChino.execute(MessageHandlerChino.java:41) - Nueva conexion del ID_Device: 987654
+[2012-04-16 14:34:14,994] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:52) - Date: 160412; GMT-0: 063320
+[2012-04-16 14:34:14,994] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:24) - NORMAL_RECORD recibido
+[2012-04-16 14:34:14,994] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:33) - Mensaje vacío recibido
+[2012-04-16 14:34:14,994] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:33) - Mensaje vacío recibido
+[2012-04-16 14:34:15,014] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:33) - Mensaje vacío recibido
+[2012-04-16 14:34:15,014] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:33) - Mensaje vacío recibido
+[2012-04-16 14:40:01,763] INFO com.deimos.controlrondas.netty.server.MessageHandlerChino.execute(MessageHandlerChino.java:41) - Nueva conexion del ID_Device: 987654
+[2012-04-16 14:40:01,763] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:52) - Date: 160412; GMT-0: 063943
+[2012-04-16 14:40:01,763] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:24) - NORMAL_RECORD recibido
+[2012-04-16 14:40:01,763] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:33) - Mensaje vacío recibido
+[2012-04-16 14:40:01,763] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:33) - Mensaje vacío recibido
+[2012-04-16 14:40:01,763] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:33) - Mensaje vacío recibido
+[2012-04-16 14:40:01,763] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:33) - Mensaje vacío recibido
+[2012-04-16 14:40:40,819] INFO com.deimos.controlrondas.netty.server.MessageHandlerChino.execute(MessageHandlerChino.java:41) - Nueva conexion del ID_Device: 987654
+[2012-04-16 14:40:40,829] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:52) - Date: 160412; GMT-0: 144020
+[2012-04-16 14:40:40,829] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:24) - NORMAL_RECORD recibido
+[2012-04-16 14:40:40,829] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:33) - Mensaje vacío recibido
+[2012-04-16 14:40:40,829] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:33) - Mensaje vacío recibido
+[2012-04-16 14:40:40,829] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:33) - Mensaje vacío recibido
+[2012-04-16 14:40:40,829] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:33) - Mensaje vacío recibido
+[2012-04-16 16:13:45,109] INFO com.deimos.controlrondas.netty.server.MessageHandlerChino.execute(MessageHandlerChino.java:41) - Nueva conexion del ID_Device: 987654
+[2012-04-16 16:13:45,109] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:55) - Button: 00000000; Date: 160412; GMT-0: 141329
+[2012-04-16 16:13:45,109] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:24) - NORMAL_RECORD recibido
+[2012-04-16 16:13:45,109] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:33) - Mensaje vacío recibido
+[2012-04-16 16:13:45,109] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:33) - Mensaje vacío recibido
+[2012-04-16 16:13:45,109] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:33) - Mensaje vacío recibido
+[2012-04-16 16:13:45,129] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:33) - Mensaje vacío recibido
+[2012-04-16 16:15:11,473] INFO com.deimos.controlrondas.netty.server.MessageHandlerChino.execute(MessageHandlerChino.java:41) - Nueva conexion del ID_Device: 987654
+[2012-04-16 16:15:34,486] INFO com.deimos.controlrondas.netty.server.MessageHandlerChino.execute(MessageHandlerChino.java:41) - Nueva conexion del ID_Device: 987654
+[2012-04-16 16:18:00,266] INFO com.deimos.controlrondas.netty.server.MessageHandlerChino.execute(MessageHandlerChino.java:41) - Nueva conexion del ID_Device: 987654
+[2012-04-16 16:18:00,266] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:55) - Button: 0000143e; Date: 160412; GMT-0: 141453
+[2012-04-16 16:18:00,266] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:24) - NORMAL_RECORD recibido
+[2012-04-16 16:18:00,266] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:55) - Button: 0000143e; Date: 160412; GMT-0: 141739
+[2012-04-16 16:18:00,266] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:24) - NORMAL_RECORD recibido
+[2012-04-16 16:18:00,266] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:33) - Mensaje vacío recibido
+[2012-04-16 16:18:00,276] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:33) - Mensaje vacío recibido
+[2012-04-16 16:18:00,276] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:33) - Mensaje vacío recibido
+[2012-04-16 16:19:37,336] INFO com.deimos.controlrondas.netty.server.MessageHandlerChino.execute(MessageHandlerChino.java:41) - Nueva conexion del ID_Device: 987654
+[2012-04-16 16:19:37,336] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:55) - Button: 0000143e5f13; Date: 160412; GMT-0: 141918
+[2012-04-16 16:19:37,336] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:24) - NORMAL_RECORD recibido
+[2012-04-16 16:19:37,336] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:55) - Button: 000001cab6f0; Date: 160412; GMT-0: 141922
+[2012-04-16 16:19:37,336] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:24) - NORMAL_RECORD recibido
+[2012-04-16 16:19:37,346] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:33) - Mensaje vacío recibido
+[2012-04-16 16:19:37,346] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:33) - Mensaje vacío recibido
+[2012-04-16 16:19:37,346] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:33) - Mensaje vacío recibido
+[2012-04-16 16:38:07,452] INFO com.deimos.controlrondas.netty.server.MessageHandlerChino.execute(MessageHandlerChino.java:41) - Nueva conexion del ID_Device: 987654
+[2012-04-16 16:38:07,462] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:60) - Button: 0000143e5f13; Date: 160412; GMT-0: 143752
+[2012-04-16 16:38:08,643] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.sendToKyros(Parser_LT_GPRS.java:90) - Envio de RISE FLAG de 0000143e5f13 a Kyros
+[2012-04-16 16:38:08,643] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:30) - NORMAL_RECORD recibido
+[2012-04-16 16:38:08,643] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:39) - Mensaje vacío recibido
+[2012-04-16 16:38:08,643] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:39) - Mensaje vacío recibido
+[2012-04-16 16:38:08,643] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:39) - Mensaje vacío recibido
+[2012-04-16 16:38:08,643] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:39) - Mensaje vacío recibido
+[2012-04-16 17:20:59,731] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:36) - Nueva conexion del ID_Device: 987654
+[2012-04-16 17:20:59,731] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:35) - ALARM_RECORD recibido
+[2012-04-16 17:27:54,026] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:36) - Nueva conexion del ID_Device: 987654
+[2012-04-16 17:27:54,026] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:35) - ALARM_RECORD recibido
+[2012-04-16 17:39:30,307] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:47) - Nueva conexion del ID_Device: 99955511
+[2012-04-16 17:39:30,307] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:46) - Mensaje EM_CARD recibido
+[2012-04-16 17:39:30,848] INFO com.deimos.controlrondas.accessBD.AccessBD.getBeaconLocation(AccessBD.java:87) - Could not get the beaconLocation java.sql.SQLException: Illegal operation on empty result set.
+[2012-04-16 17:39:30,848] WARN com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:95) - No se ha encontrado 0024539700 en la base de datos.
+[2012-04-16 17:43:12,367] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:47) - Nueva conexion del ID_Device: 99955511
+[2012-04-16 17:43:12,367] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:50) - Mensaje LOW_POWER recibido. Mandamos LOW BATTERY a Kyros
+[2012-04-16 17:43:12,367] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleLowPower(Parser_P5_GPS.java:145) - Low Battery el 160412 a las 154257. Volaje: 159. Lat: 41.516203; Lon: -4.721061
+[2012-04-16 17:45:36,674] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:47) - Nueva conexion del ID_Device: 99955511
+[2012-04-16 17:45:36,694] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:46) - Mensaje EM_CARD recibido
+[2012-04-16 17:45:37,285] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:88) - Envio de RISE FLAG de 00245397 a Kyros
+[2012-04-16 18:15:57,793] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:47) - Nueva conexion del ID_Device: 99955511
+[2012-04-16 18:15:57,813] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-16 18:15:57,813]ERROR com.deimos.controlrondas.kyros.KyrosConnection.sendMessage(KyrosConnection.java:54) - java.lang.NullPointerException
+[2012-04-16 18:15:57,813] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:87) - Enviamos nueva posicion a Kyros: Lat: 41.51586; Lon: -4.721188; Date: 160412; GMT-0: 155422
+[2012-04-16 18:15:57,813] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-16 18:15:57,813]ERROR com.deimos.controlrondas.kyros.KyrosConnection.sendMessage(KyrosConnection.java:54) - java.lang.NullPointerException
+[2012-04-16 18:15:57,823] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:87) - Enviamos nueva posicion a Kyros: Lat: 41.515778; Lon: -4.72128; Date: 160412; GMT-0: 160422
+[2012-04-16 18:15:57,823] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-16 18:15:57,823]ERROR com.deimos.controlrondas.kyros.KyrosConnection.sendMessage(KyrosConnection.java:54) - java.lang.NullPointerException
+[2012-04-16 18:15:57,823] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:87) - Enviamos nueva posicion a Kyros: Lat: 41.516001; Lon: -4.72125; Date: 160412; GMT-0: 161422
+[2012-04-16 18:27:36,057] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:47) - Nueva conexion del ID_Device: 99955511
+[2012-04-16 18:27:36,067] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-16 18:27:36,067] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:88) - Enviamos nueva posicion a Kyros: Lat: 41.515981; Lon: -4.721223; Date: 160412; GMT-0: 162453

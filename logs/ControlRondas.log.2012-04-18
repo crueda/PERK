@@ -1,0 +1,92 @@
+[2012-04-18 13:59:10,641] INFO com.deimos.controlrondas.netty.server.Server.main(Server.java:25) - Iniciamos la aplicacion
+[2012-04-18 14:23:42,337] INFO com.deimos.controlrondas.netty.server.Server.main(Server.java:25) - Iniciamos la aplicacion
+[2012-04-18 14:23:58,300] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:39) - Nueva conexion del ID_Device: 987654
+[2012-04-18 14:23:58,310] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-18 14:23:58,310] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:65) - Button: 0000143e5f13; Date: 180412; GMT-0: 122302
+[2012-04-18 14:23:58,550] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:77) - Mandamos trama indoor a Kyros: INDOOR_BEACON,0000143e5f13,10
+
+[2012-04-18 14:23:58,550] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-18 14:23:58,550] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:65) - Button: 000001cab6f0; Date: 180412; GMT-0: 122347
+[2012-04-18 14:23:58,580] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:94) - Mandamos trama GPRMC a Kyros: $GPRMC,122347.000,A,4238.999999999999915,N,00449.999999999999986,W,0.0,0.0,180412,,
+
+[2012-04-18 16:12:49,661] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:50) - Nueva conexion del ID_Device: 99955511
+[2012-04-18 16:12:49,681] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:46) - Mensaje EM_CARD recibido
+[2012-04-18 16:12:49,752] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:77) - Mandamos trama indoor a Kyros: INDOOR_BEACON,00245397,10
+
+[2012-04-18 16:13:07,818] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:58) - El dispositivo ha pedido una sincronización de tiempo
+[2012-04-18 16:13:07,818] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:60) - La identificacion de la trama es correcta
+[2012-04-18 16:13:08,999] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:39) - Nueva conexion del ID_Device: 987654
+[2012-04-18 16:13:08,999] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-18 16:13:08,999] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:65) - Button: 0000143e5f13; Date: 180412; GMT-0: 141223
+[2012-04-18 16:13:09,049] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:77) - Mandamos trama indoor a Kyros: INDOOR_BEACON,0000143e5f13,10
+
+[2012-04-18 16:13:57,729] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:39) - Nueva conexion del ID_Device: 987654
+[2012-04-18 16:13:57,729] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-18 16:13:57,739] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:65) - Button: 0000143e5f13; Date: 180412; GMT-0: 141348
+[2012-04-18 16:13:57,769] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:77) - Mandamos trama indoor a Kyros: INDOOR_BEACON,0000143e5f13,10
+
+[2012-04-18 16:14:19,280] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:50) - Nueva conexion del ID_Device: 99955511
+[2012-04-18 16:14:19,280] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:46) - Mensaje EM_CARD recibido
+[2012-04-18 16:14:19,320] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:77) - Mandamos trama indoor a Kyros: INDOOR_BEACON,00245397,10
+
+[2012-04-18 18:14:52,682] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:58) - El dispositivo ha pedido una sincronización de tiempo
+[2012-04-18 18:14:52,802] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:60) - La identificacion de la trama es correcta
+[2012-04-18 18:14:53,783] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:39) - Nueva conexion del ID_Device: 987654
+[2012-04-18 18:14:53,793] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-18 18:14:53,823] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:65) - Button: 000001cab6f0; Date: 180412; GMT-0: 161408
+[2012-04-18 18:14:54,534] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:94) - Mandamos trama GPRMC a Kyros: $GPRMC,161408.000,A,4138.327333332999984,N,00445.493666667000014,W,0.0,0.0,180412,,
+
+[2012-04-18 18:26:25,167] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:58) - El dispositivo ha pedido una sincronización de tiempo
+[2012-04-18 18:26:25,167] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:60) - La identificacion de la trama es correcta
+[2012-04-18 18:26:31,066] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:39) - Nueva conexion del ID_Device: 987654
+[2012-04-18 18:26:31,066] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-18 18:26:31,066] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:65) - Button: 0000143e5f13; Date: 180412; GMT-0: 162541
+[2012-04-18 18:26:31,156] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:77) - Mandamos trama indoor a Kyros: INDOOR_BEACON,0000143e5f13,10
+
+[2012-04-18 18:26:53,869] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:39) - Nueva conexion del ID_Device: 987654
+[2012-04-18 18:26:53,869] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-18 18:26:53,869] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:65) - Button: 0000143f2d72; Date: 180412; GMT-0: 162639
+[2012-04-18 18:26:53,919] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:77) - Mandamos trama indoor a Kyros: INDOOR_BEACON,0000143f2d72,10
+
+[2012-04-18 18:30:22,879] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:58) - El dispositivo ha pedido una sincronización de tiempo
+[2012-04-18 18:30:22,879] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:60) - La identificacion de la trama es correcta
+[2012-04-18 18:30:24,331] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:39) - Nueva conexion del ID_Device: 987654
+[2012-04-18 18:30:24,331] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-18 18:30:24,331] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:65) - Button: 0000143e5f13; Date: 180412; GMT-0: 162934
+[2012-04-18 18:30:24,361] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:77) - Mandamos trama indoor a Kyros: INDOOR_BEACON,0000143e5f13,10
+
+[2012-04-18 18:31:27,442] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:39) - Nueva conexion del ID_Device: 987654
+[2012-04-18 18:31:27,442] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-18 18:31:27,442] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:65) - Button: 0000143f2d72; Date: 180412; GMT-0: 163116
+[2012-04-18 18:31:27,502] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:77) - Mandamos trama indoor a Kyros: INDOOR_BEACON,0000143f2d72,10
+
+[2012-04-18 18:32:59,404] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:39) - Nueva conexion del ID_Device: 987654
+[2012-04-18 18:32:59,414] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-18 18:32:59,414] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:65) - Button: 0000018debd3; Date: 180412; GMT-0: 163248
+[2012-04-18 18:32:59,454] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:94) - Mandamos trama GPRMC a Kyros: $GPRMC,163248.000,A,4131.28533333299984,N,00443.41600000000001,W,0.0,0.0,180412,,
+
+[2012-04-18 18:41:47,233] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:58) - El dispositivo ha pedido una sincronización de tiempo
+[2012-04-18 18:41:47,233] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:60) - La identificacion de la trama es correcta
+[2012-04-18 18:41:48,845] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:39) - Nueva conexion del ID_Device: 987654
+[2012-04-18 18:41:48,845] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-18 18:41:48,845] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:65) - Button: 000001c478d6; Date: 180412; GMT-0: 164102
+[2012-04-18 18:41:48,926] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:94) - Mandamos trama GPRMC a Kyros: $GPRMC,164102.000,A,4131.194666667000206,N,00443.22316666699999,W,0.0,0.0,180412,,
+
+[2012-04-18 18:42:14,092] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:39) - Nueva conexion del ID_Device: 987654
+[2012-04-18 18:42:14,112] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-18 18:42:14,142] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:65) - Button: 0000143e5f13; Date: 180412; GMT-0: 164204
+[2012-04-18 18:42:14,232] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:94) - Mandamos trama GPRMC a Kyros: $GPRMC,164204.000,A,4130.982166666999973,N,00443.02174999999998,W,0.0,0.0,180412,,
+
+[2012-04-18 18:46:28,297] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:39) - Nueva conexion del ID_Device: 987654
+[2012-04-18 18:46:28,297] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-18 18:46:28,307] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:65) - Button: 000001c478d6; Date: 180412; GMT-0: 164557
+[2012-04-18 18:46:28,347] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:94) - Mandamos trama GPRMC a Kyros: $GPRMC,164557.000,A,4131.194666667000206,N,00443.22316666699999,W,0.0,0.0,180412,,
+
+[2012-04-18 18:46:28,347] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-18 18:46:28,347] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:65) - Button: 0000143f2d72; Date: 180412; GMT-0: 164606
+[2012-04-18 18:46:28,387] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:94) - Mandamos trama GPRMC a Kyros: $GPRMC,164606.000,A,4131.238333332999986,N,00443.024650000000015,W,0.0,0.0,180412,,
+
+[2012-04-18 18:46:28,387] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-18 18:46:28,387] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:65) - Button: 0000143e5f13; Date: 180412; GMT-0: 164613
+[2012-04-18 18:46:28,417] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:94) - Mandamos trama GPRMC a Kyros: $GPRMC,164613.000,A,4130.982166666999973,N,00443.02174999999998,W,0.0,0.0,180412,,
+

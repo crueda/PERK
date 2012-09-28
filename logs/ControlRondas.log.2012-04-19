@@ -1,0 +1,398 @@
+[2012-04-19 08:57:22,119] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:50) - Nueva conexion del ID_Device: 99955511
+[2012-04-19 08:57:22,289] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 08:57:22,289] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:88) - Enviamos nueva posicion a Kyros: Lat: 41.515865; Lon: -4.721365; Date: 180412; GMT-0: 142433
+[2012-04-19 08:57:22,289] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 08:57:22,289] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:88) - Enviamos nueva posicion a Kyros: Lat: 41.515876; Lon: -4.721266; Date: 180412; GMT-0: 143433
+[2012-04-19 08:57:22,289] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 08:57:22,289] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:88) - Enviamos nueva posicion a Kyros: Lat: 41.515963; Lon: -4.721095; Date: 180412; GMT-0: 144433
+[2012-04-19 08:57:22,289] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 08:57:22,289] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:88) - Enviamos nueva posicion a Kyros: Lat: 41.515995; Lon: -4.721141; Date: 180412; GMT-0: 145433
+[2012-04-19 08:57:22,289] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 08:57:22,289] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:88) - Enviamos nueva posicion a Kyros: Lat: 41.515825; Lon: -4.721256; Date: 190412; GMT-0: 065332
+[2012-04-19 08:57:22,289] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 08:57:22,289] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:88) - Enviamos nueva posicion a Kyros: Lat: 41.515955; Lon: -4.72106; Date: 190412; GMT-0: 065532
+[2012-04-19 08:57:22,289] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:46) - Mensaje EM_CARD recibido
+[2012-04-19 08:57:22,410] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:77) - Mandamos trama indoor a Kyros: INDOOR_BEACON,00245397,10
+
+[2012-04-19 09:02:44,252] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:50) - Nueva conexion del ID_Device: 99955511
+[2012-04-19 09:02:44,252] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 09:02:44,252] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:88) - Enviamos nueva posicion a Kyros: Lat: 41.51577; Lon: -4.721133; Date: 190412; GMT-0: 065808
+[2012-04-19 09:02:44,252] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 09:02:44,252] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:88) - Enviamos nueva posicion a Kyros: Lat: 41.515678; Lon: -4.72118; Date: 190412; GMT-0: 070008
+[2012-04-19 09:02:44,252] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 09:02:44,262] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:88) - Enviamos nueva posicion a Kyros: Lat: 41.515951; Lon: -4.721291; Date: 190412; GMT-0: 070208
+[2012-04-19 10:11:13,666] INFO com.deimos.controlrondas.netty.server.Server.main(Server.java:25) - Iniciamos la aplicacion
+[2012-04-19 10:11:45,492] INFO com.deimos.controlrondas.netty.server.Server.main(Server.java:25) - Iniciamos la aplicacion
+[2012-04-19 10:11:54,675] INFO com.deimos.controlrondas.netty.server.Server.main(Server.java:25) - Iniciamos la aplicacion
+[2012-04-19 10:12:17,198] INFO com.deimos.controlrondas.netty.server.Server.main(Server.java:25) - Iniciamos la aplicacion
+[2012-04-19 10:14:00,186] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:50) - Nueva conexion del ID_Device: 99955511
+[2012-04-19 10:14:00,216] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:46) - Mensaje EM_CARD recibido
+[2012-04-19 10:14:02,990] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:98) - WS con 99955511/00245397 a Kyros
+[2012-04-19 10:20:55,193] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:58) - El dispositivo ha pedido una sincronización de tiempo
+[2012-04-19 10:20:55,193] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:60) - La identificacion de la trama es correcta
+[2012-04-19 10:20:56,855] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:39) - Nueva conexion del ID_Device: 987654
+[2012-04-19 10:20:56,895] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-19 10:20:56,895] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:65) - Button: 0000018debd3; Date: 190412; GMT-0: 081226
+[2012-04-19 10:20:56,925] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:121) - Mandamos trama GPRMC a Kyros: $GPRMC,081226.000,A,4131.28533333299984,N,00443.41600000000001,W,0.0,0.0,190412,,
+
+[2012-04-19 10:20:56,925] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-19 10:20:56,925] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:65) - Button: 0000018debd3; Date: 190412; GMT-0: 081950
+[2012-04-19 10:20:56,965] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:121) - Mandamos trama GPRMC a Kyros: $GPRMC,081950.000,A,4131.28533333299984,N,00443.41600000000001,W,0.0,0.0,190412,,
+
+[2012-04-19 10:20:56,965] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-19 10:20:56,965] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:65) - Button: 0000143e5f13; Date: 190412; GMT-0: 082009
+[2012-04-19 10:20:56,995] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:121) - Mandamos trama GPRMC a Kyros: $GPRMC,082009.000,A,4130.982166666999973,N,00443.02174999999998,W,0.0,0.0,190412,,
+
+[2012-04-19 10:27:11,704] INFO com.deimos.controlrondas.netty.server.Server.main(Server.java:25) - Iniciamos la aplicacion
+[2012-04-19 10:27:14,158] INFO com.deimos.controlrondas.netty.server.Server.main(Server.java:25) - Iniciamos la aplicacion
+[2012-04-19 10:27:36,179] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:39) - Nueva conexion del ID_Device: 987654
+[2012-04-19 10:27:36,189] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-19 10:27:36,189] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:65) - Button: 000001cab6f0; Date: 190412; GMT-0: 082209
+[2012-04-19 10:27:36,890] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:98) - WS con 987654/000001cab6f0 a Kyros
+[2012-04-19 10:27:36,890] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-19 10:27:36,890] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:65) - Button: 000001cab6f0; Date: 190412; GMT-0: 082442
+[2012-04-19 10:27:37,010] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:98) - WS con 987654/000001cab6f0 a Kyros
+[2012-04-19 10:27:37,010] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-19 10:27:37,010] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:65) - Button: 0000018debd3; Date: 190412; GMT-0: 082557
+[2012-04-19 10:27:37,030] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:121) - Mandamos trama GPRMC a Kyros: $GPRMC,082557.000,A,4131.28533333299984,N,00443.41600000000001,W,0.0,0.0,190412,,
+
+[2012-04-19 10:27:37,030] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-19 10:27:37,030] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:65) - Button: 000001c793f0; Date: 190412; GMT-0: 082722
+[2012-04-19 10:27:37,121] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:98) - WS con 987654/000001c793f0 a Kyros
+[2012-04-19 10:30:05,163] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:39) - Nueva conexion del ID_Device: 987654
+[2012-04-19 10:30:05,163] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-19 10:30:05,163] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:65) - Button: 000001cab6f0; Date: 190412; GMT-0: 082950
+[2012-04-19 10:30:05,264] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:98) - WS con 987654/000001cab6f0 a Kyros
+[2012-04-19 10:39:55,713] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:50) - Nueva conexion del ID_Device: 99955511
+[2012-04-19 10:39:55,723] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 10:39:55,723] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:74) - GuardID: 00000000
+[2012-04-19 10:39:55,763] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:91) - Enviamos nueva posicion a Kyros: Lat: 41.515818; Lon: -4.721056; Date: 190412; GMT-0: 082614
+[2012-04-19 10:39:55,763] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 10:39:55,763] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:74) - GuardID: 00000000
+[2012-04-19 10:39:55,773] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:91) - Enviamos nueva posicion a Kyros: Lat: 41.515463; Lon: -4.721006; Date: 190412; GMT-0: 082821
+[2012-04-19 10:39:55,773] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 10:39:55,773] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:74) - GuardID: 00000000
+[2012-04-19 10:39:55,773] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:91) - Enviamos nueva posicion a Kyros: Lat: 41.515803; Lon: -4.721048; Date: 190412; GMT-0: 083039
+[2012-04-19 10:39:55,773] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 10:39:55,773] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:74) - GuardID: 00000000
+[2012-04-19 10:39:55,773] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:91) - Enviamos nueva posicion a Kyros: Lat: 41.515568; Lon: -4.720996; Date: 190412; GMT-0: 083255
+[2012-04-19 10:39:55,773] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 10:39:55,773] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:74) - GuardID: 00000000
+[2012-04-19 10:39:55,773] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:91) - Enviamos nueva posicion a Kyros: Lat: 41.51529; Lon: -4.720946; Date: 190412; GMT-0: 083509
+[2012-04-19 10:39:55,773] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 10:39:55,773] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:74) - GuardID: 00000000
+[2012-04-19 10:39:55,773] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:91) - Enviamos nueva posicion a Kyros: Lat: 41.515113; Lon: -4.720336; Date: 190412; GMT-0: 083709
+[2012-04-19 10:39:55,773] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 10:39:55,773] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:74) - GuardID: 00000000
+[2012-04-19 10:39:55,773] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:91) - Enviamos nueva posicion a Kyros: Lat: 41.514286; Lon: -4.720313; Date: 190412; GMT-0: 083909
+[2012-04-19 10:48:58,904] INFO com.deimos.controlrondas.netty.server.Server.main(Server.java:25) - Iniciamos la aplicacion
+[2012-04-19 10:49:20,935] INFO com.deimos.controlrondas.netty.server.Server.main(Server.java:25) - Iniciamos la aplicacion
+[2012-04-19 10:57:33,714] INFO com.deimos.controlrondas.netty.server.Server.main(Server.java:25) - Iniciamos la aplicacion
+[2012-04-19 11:01:36,263] INFO com.deimos.controlrondas.netty.server.Server.main(Server.java:25) - Iniciamos la aplicacion
+[2012-04-19 11:01:52,216] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:50) - Nueva conexion del ID_Device: 99955511
+[2012-04-19 11:01:52,216] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:46) - Mensaje EM_CARD recibido
+[2012-04-19 11:01:52,216] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleEM_CARD(Parser_P5_GPS.java:112) - GuardID: 00000000
+[2012-04-19 11:01:52,937] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:95) - WS con 99955511/00245397 a Kyros
+[2012-04-19 11:01:52,937] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:46) - Mensaje EM_CARD recibido
+[2012-04-19 11:01:52,937] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleEM_CARD(Parser_P5_GPS.java:112) - GuardID: 00000000
+[2012-04-19 11:01:53,017] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:95) - WS con 99955511/00245397 a Kyros
+[2012-04-19 11:01:53,017] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:46) - Mensaje EM_CARD recibido
+[2012-04-19 11:01:53,017] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleEM_CARD(Parser_P5_GPS.java:112) - GuardID: 00000000
+[2012-04-19 11:01:53,107] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:95) - WS con 99955511/00245397 a Kyros
+[2012-04-19 11:01:53,107] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:46) - Mensaje EM_CARD recibido
+[2012-04-19 11:01:53,107] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleEM_CARD(Parser_P5_GPS.java:112) - GuardID: 00000000
+[2012-04-19 11:01:53,197] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:95) - WS con 99955511/00245397 a Kyros
+[2012-04-19 11:01:53,197] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:46) - Mensaje EM_CARD recibido
+[2012-04-19 11:01:53,197] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleEM_CARD(Parser_P5_GPS.java:112) - GuardID: 00000000
+[2012-04-19 11:01:53,287] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:95) - WS con 99955511/00245397 a Kyros
+[2012-04-19 11:10:08,509] INFO com.deimos.controlrondas.netty.server.Server.main(Server.java:25) - Iniciamos la aplicacion
+[2012-04-19 11:20:19,408] INFO com.deimos.controlrondas.netty.server.Server.main(Server.java:25) - Iniciamos la aplicacion
+[2012-04-19 11:21:12,774] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:50) - Nueva conexion del ID_Device: 99955511
+[2012-04-19 11:21:12,804] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:46) - Mensaje EM_CARD recibido
+[2012-04-19 11:21:12,835] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleEM_CARD(Parser_P5_GPS.java:112) - GuardID: 00000000
+[2012-04-19 11:21:13,696] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:95) - WS con 99955511/00245397 a Kyros
+[2012-04-19 11:21:13,696] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:46) - Mensaje EM_CARD recibido
+[2012-04-19 11:21:13,696] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleEM_CARD(Parser_P5_GPS.java:112) - GuardID: 00000000
+[2012-04-19 11:21:13,726] INFO com.deimos.controlrondas.accessBD.AccessBD.getBeaconDevice(AccessBD.java:87) - Could not get the beaconLocation java.sql.SQLException: Illegal operation on empty result set.
+[2012-04-19 11:21:13,726]ERROR com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:124) - No se ha encontrado 0025b2ce en la base de datos.
+[2012-04-19 11:28:45,836] INFO com.deimos.controlrondas.netty.server.Server.main(Server.java:25) - Iniciamos la aplicacion
+[2012-04-19 11:30:01,385] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:58) - El dispositivo ha pedido una sincronización de tiempo
+[2012-04-19 11:30:01,385] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:60) - La identificacion de la trama es correcta
+[2012-04-19 11:30:03,217] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:39) - Nueva conexion del ID_Device: 987654
+[2012-04-19 11:30:03,227] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.parse(Parser_LT_GPRS.java:31) - NORMAL_RECORD recibido
+[2012-04-19 11:30:03,227] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:78) - GuardID: 000000000000
+[2012-04-19 11:30:03,227] INFO com.deimos.controlrondas.parser.Parser_LT_GPRS.handleNormalRecord(Parser_LT_GPRS.java:81) - Button: 0000143e5f13; Date: 190412; GMT-0: 092913
+[2012-04-19 11:30:03,478] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:118) - Mandamos trama GPRMC a Kyros: $GPRMC,092913.000,A,4130.982166666999973,N,00443.02174999999998,W,0.0,0.0,190412,,
+
+[2012-04-19 11:37:20,486] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:50) - Nueva conexion del ID_Device: 99955511
+[2012-04-19 11:37:20,486] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 11:37:20,486] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 11:37:20,496] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515675; Lon: -4.721108; Date: 190412; GMT-0: 092324
+[2012-04-19 11:37:20,496] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 11:37:20,496] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 11:37:20,496] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515918; Lon: -4.721033; Date: 190412; GMT-0: 092527
+[2012-04-19 11:37:20,496] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 11:37:20,506] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 11:37:20,506] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515935; Lon: -4.721185; Date: 190412; GMT-0: 092814
+[2012-04-19 11:37:20,506] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 11:37:20,506] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 11:37:20,506] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.516086; Lon: -4.721096; Date: 190412; GMT-0: 093034
+[2012-04-19 11:37:20,516] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 11:37:20,516] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 11:37:20,526] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.51577; Lon: -4.721188; Date: 190412; GMT-0: 093234
+[2012-04-19 11:37:20,526] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 11:37:20,526] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 11:37:20,526] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515756; Lon: -4.721171; Date: 190412; GMT-0: 093434
+[2012-04-19 11:37:20,526] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 11:37:20,526] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 11:37:20,526] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515826; Lon: -4.721098; Date: 190412; GMT-0: 093634
+[2012-04-19 13:04:29,243] INFO com.deimos.controlrondas.netty.server.Server.main(Server.java:25) - Iniciamos la aplicacion
+[2012-04-19 13:04:53,448] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:50) - Nueva conexion del ID_Device: 99955511
+[2012-04-19 13:04:53,518] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 13:04:53,538] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 13:04:53,648] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515883; Lon: -4.721275; Date: 190412; GMT-0: 110351
+[2012-04-19 13:04:53,658] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:46) - Mensaje EM_CARD recibido
+[2012-04-19 13:04:53,658] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleEM_CARD(Parser_P5_GPS.java:112) - GuardID: 00000000
+[2012-04-19 13:04:59,517] INFO com.deimos.controlrondas.kyros.KyrosConnection.sendFixedBeaconToKyros(KyrosConnection.java:95) - WS con 99955511/00245397 a Kyros
+[2012-04-19 13:18:54,944] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:50) - Nueva conexion del ID_Device: 99955511
+[2012-04-19 13:18:55,214] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 13:18:55,214] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 13:18:55,334] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.516075; Lon: -4.721548; Date: 190412; GMT-0: 110637
+[2012-04-19 13:18:55,344] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 13:18:55,344] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 13:18:55,354] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.51605; Lon: -4.721478; Date: 190412; GMT-0: 110837
+[2012-04-19 13:18:55,354] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 13:18:55,554] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 13:18:55,554] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515836; Lon: -4.721336; Date: 190412; GMT-0: 111037
+[2012-04-19 13:18:55,554] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 13:18:55,564] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 13:18:55,575] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515935; Lon: -4.721333; Date: 190412; GMT-0: 111237
+[2012-04-19 13:18:55,575] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 13:18:55,575] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 13:18:55,595] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.516018; Lon: -4.721495; Date: 190412; GMT-0: 111437
+[2012-04-19 13:18:55,595] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 13:18:55,605] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 13:18:55,605] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515933; Lon: -4.721346; Date: 190412; GMT-0: 111637
+[2012-04-19 13:18:55,605] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 13:18:55,605] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 13:18:55,675] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515996; Lon: -4.721278; Date: 190412; GMT-0: 111837
+[2012-04-19 13:33:25,816] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:50) - Nueva conexion del ID_Device: 99955511
+[2012-04-19 13:33:25,916] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 13:33:25,926] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 13:33:26,076] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.51607; Lon: -4.721311; Date: 190412; GMT-0: 112105
+[2012-04-19 13:33:26,076] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 13:33:26,086] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 13:33:26,086] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.51596; Lon: -4.72126; Date: 190412; GMT-0: 112305
+[2012-04-19 13:33:26,136] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 13:33:26,136] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 13:33:26,196] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515763; Lon: -4.721411; Date: 190412; GMT-0: 112508
+[2012-04-19 13:33:26,206] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 13:33:26,226] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 13:33:26,307] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.51591; Lon: -4.721288; Date: 190412; GMT-0: 112708
+[2012-04-19 13:33:26,327] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 13:33:26,517] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 13:33:26,547] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515893; Lon: -4.721156; Date: 190412; GMT-0: 112908
+[2012-04-19 13:33:26,547] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 13:33:26,557] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 13:33:26,657] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.516013; Lon: -4.721081; Date: 190412; GMT-0: 113108
+[2012-04-19 13:33:26,657] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 13:33:26,657] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 13:33:26,667] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515863; Lon: -4.721393; Date: 190412; GMT-0: 113308
+[2012-04-19 13:47:53,473] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:50) - Nueva conexion del ID_Device: 99955511
+[2012-04-19 13:47:53,473] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 13:47:53,473] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 13:47:53,514] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.516258; Lon: -4.721225; Date: 190412; GMT-0: 113536
+[2012-04-19 13:47:53,514] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 13:47:53,524] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 13:47:53,534] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.51597; Lon: -4.721378; Date: 190412; GMT-0: 113736
+[2012-04-19 13:47:53,564] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 13:47:53,564] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 13:47:53,564] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.51595; Lon: -4.721511; Date: 190412; GMT-0: 113936
+[2012-04-19 13:47:53,564] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 13:47:53,564] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 13:47:53,574] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.516095; Lon: -4.72144; Date: 190412; GMT-0: 114136
+[2012-04-19 13:47:53,574] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 13:47:53,574] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 13:47:53,664] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.516451; Lon: -4.72086; Date: 190412; GMT-0: 114336
+[2012-04-19 13:47:53,674] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 13:47:53,674] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 13:47:53,744] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.516585; Lon: -4.721671; Date: 190412; GMT-0: 114536
+[2012-04-19 13:47:53,744] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 13:47:53,744] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 13:47:53,774] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.516405; Lon: -4.721663; Date: 190412; GMT-0: 114736
+[2012-04-19 14:02:19,429] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:50) - Nueva conexion del ID_Device: 99955511
+[2012-04-19 14:02:19,429] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 14:02:19,439] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 14:02:19,459] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.516518; Lon: -4.721471; Date: 190412; GMT-0: 115002
+[2012-04-19 14:02:19,459] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 14:02:19,459] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 14:02:19,469] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.51572; Lon: -4.721556; Date: 190412; GMT-0: 115202
+[2012-04-19 14:02:19,469] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 14:02:19,479] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 14:02:19,479] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515585; Lon: -4.72177; Date: 190412; GMT-0: 115402
+[2012-04-19 14:02:19,479] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 14:02:19,479] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 14:02:19,489] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515923; Lon: -4.721556; Date: 190412; GMT-0: 115602
+[2012-04-19 14:02:19,489] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 14:02:19,509] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 14:02:21,482] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.51607; Lon: -4.7211; Date: 190412; GMT-0: 115802
+[2012-04-19 14:02:21,492] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 14:02:21,512] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 14:02:22,743] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.516335; Lon: -4.721316; Date: 190412; GMT-0: 120002
+[2012-04-19 14:02:22,743] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 14:02:22,763] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 14:02:23,244] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.516448; Lon: -4.72108; Date: 190412; GMT-0: 120202
+[2012-04-19 14:16:51,723] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:50) - Nueva conexion del ID_Device: 99955511
+[2012-04-19 14:16:51,723] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 14:16:51,723] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 14:16:51,753] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.516065; Lon: -4.721365; Date: 190412; GMT-0: 120434
+[2012-04-19 14:16:51,753] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 14:16:51,753] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 14:16:51,753] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515853; Lon: -4.721008; Date: 190412; GMT-0: 120634
+[2012-04-19 14:16:51,753] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 14:16:51,753] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 14:16:51,763] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515736; Lon: -4.72126; Date: 190412; GMT-0: 120834
+[2012-04-19 14:16:51,763] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 14:16:51,763] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 14:16:51,833] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515976; Lon: -4.721281; Date: 190412; GMT-0: 121034
+[2012-04-19 14:16:51,833] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 14:16:51,833] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 14:16:51,853] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.516001; Lon: -4.721313; Date: 190412; GMT-0: 121234
+[2012-04-19 14:16:51,853] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 14:16:51,923] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 14:16:51,933] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515995; Lon: -4.72153; Date: 190412; GMT-0: 121434
+[2012-04-19 14:16:51,933] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 14:16:51,933] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 14:16:51,943] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.516086; Lon: -4.721238; Date: 190412; GMT-0: 121634
+[2012-04-19 14:31:19,471] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:50) - Nueva conexion del ID_Device: 99955511
+[2012-04-19 14:31:19,481] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 14:31:19,481] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 14:31:19,561] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.516048; Lon: -4.720885; Date: 190412; GMT-0: 121902
+[2012-04-19 14:31:19,571] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 14:31:19,581] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 14:31:19,621] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.51595; Lon: -4.720753; Date: 190412; GMT-0: 122102
+[2012-04-19 14:31:19,621] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 14:31:19,621] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 14:31:19,711] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515898; Lon: -4.721193; Date: 190412; GMT-0: 122302
+[2012-04-19 14:31:19,711] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 14:31:19,711] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 14:31:19,721] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.516051; Lon: -4.72132; Date: 190412; GMT-0: 122502
+[2012-04-19 14:31:19,731] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 14:31:19,731] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 14:31:19,731] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515855; Lon: -4.721338; Date: 190412; GMT-0: 122702
+[2012-04-19 14:31:19,731] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 14:31:19,731] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 14:31:19,741] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515998; Lon: -4.721255; Date: 190412; GMT-0: 122902
+[2012-04-19 14:31:19,741] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 14:31:19,741] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 14:31:19,741] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.516078; Lon: -4.72096; Date: 190412; GMT-0: 123102
+[2012-04-19 14:45:48,360] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:50) - Nueva conexion del ID_Device: 99955511
+[2012-04-19 14:45:48,360] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 14:45:48,360] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 14:45:48,370] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515828; Lon: -4.721226; Date: 190412; GMT-0: 123331
+[2012-04-19 14:45:48,370] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 14:45:48,370] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 14:45:48,370] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515848; Lon: -4.721153; Date: 190412; GMT-0: 123531
+[2012-04-19 14:45:48,370] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 14:45:48,370] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 14:45:48,370] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515936; Lon: -4.72117; Date: 190412; GMT-0: 123731
+[2012-04-19 14:45:48,380] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 14:45:48,380] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 14:45:48,380] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515931; Lon: -4.721243; Date: 190412; GMT-0: 123931
+[2012-04-19 14:45:48,450] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 14:45:48,460] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 14:45:48,460] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515868; Lon: -4.721213; Date: 190412; GMT-0: 124131
+[2012-04-19 14:45:48,460] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 14:45:48,460] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 14:45:48,460] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.516; Lon: -4.721125; Date: 190412; GMT-0: 124331
+[2012-04-19 14:45:48,460] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 14:45:48,460] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 14:45:48,460] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515856; Lon: -4.721253; Date: 190412; GMT-0: 124531
+[2012-04-19 15:00:14,325] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:50) - Nueva conexion del ID_Device: 99955511
+[2012-04-19 15:00:14,325] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 15:00:14,325] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 15:00:14,335] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515895; Lon: -4.72107; Date: 190412; GMT-0: 124757
+[2012-04-19 15:00:14,335] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 15:00:14,335] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 15:00:14,355] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515895; Lon: -4.721155; Date: 190412; GMT-0: 124957
+[2012-04-19 15:00:14,375] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 15:00:14,375] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 15:00:14,375] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515823; Lon: -4.721405; Date: 190412; GMT-0: 125157
+[2012-04-19 15:00:14,375] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 15:00:14,375] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 15:00:14,375] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515878; Lon: -4.721345; Date: 190412; GMT-0: 125357
+[2012-04-19 15:00:14,375] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 15:00:14,375] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 15:00:14,375] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515953; Lon: -4.721123; Date: 190412; GMT-0: 125557
+[2012-04-19 15:00:14,375] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 15:00:14,375] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 15:00:14,375] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515945; Lon: -4.721393; Date: 190412; GMT-0: 125757
+[2012-04-19 15:00:14,385] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 15:00:14,385] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 15:00:14,385] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.51592; Lon: -4.721188; Date: 190412; GMT-0: 125957
+[2012-04-19 15:14:40,190] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:50) - Nueva conexion del ID_Device: 99955511
+[2012-04-19 15:14:40,190] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 15:14:40,190] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 15:14:40,200] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.516133; Lon: -4.721006; Date: 190412; GMT-0: 130223
+[2012-04-19 15:14:40,200] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 15:14:40,200] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 15:14:40,220] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.516025; Lon: -4.721091; Date: 190412; GMT-0: 130423
+[2012-04-19 15:14:40,220] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 15:14:40,220] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 15:14:40,240] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.51586; Lon: -4.721308; Date: 190412; GMT-0: 130623
+[2012-04-19 15:14:40,240] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 15:14:40,240] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 15:14:40,240] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515806; Lon: -4.721371; Date: 190412; GMT-0: 130823
+[2012-04-19 15:14:40,240] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 15:14:40,240] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 15:14:40,240] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.516001; Lon: -4.72126; Date: 190412; GMT-0: 131023
+[2012-04-19 15:14:40,250] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 15:14:40,270] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 15:14:40,281] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515848; Lon: -4.721226; Date: 190412; GMT-0: 131223
+[2012-04-19 15:14:40,281] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 15:14:40,281] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 15:14:40,311] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515943; Lon: -4.721225; Date: 190412; GMT-0: 131423
+[2012-04-19 15:29:06,331] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:50) - Nueva conexion del ID_Device: 99955511
+[2012-04-19 15:29:06,331] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 15:29:06,331] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 15:29:06,331] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515956; Lon: -4.721176; Date: 190412; GMT-0: 131649
+[2012-04-19 15:29:06,331] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 15:29:06,331] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 15:29:06,331] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.51597; Lon: -4.72114; Date: 190412; GMT-0: 131849
+[2012-04-19 15:29:06,331] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 15:29:06,331] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 15:29:06,331] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515841; Lon: -4.721245; Date: 190412; GMT-0: 132049
+[2012-04-19 15:29:06,361] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 15:29:06,361] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 15:29:06,361] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515845; Lon: -4.72119; Date: 190412; GMT-0: 132249
+[2012-04-19 15:29:06,361] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 15:29:06,361] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 15:29:06,361] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515881; Lon: -4.721168; Date: 190412; GMT-0: 132449
+[2012-04-19 15:29:06,361] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 15:29:06,361] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 15:29:06,361] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.516053; Lon: -4.721108; Date: 190412; GMT-0: 132649
+[2012-04-19 15:29:06,361] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 15:29:06,361] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 15:29:06,361] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.516033; Lon: -4.721248; Date: 190412; GMT-0: 132849
+[2012-04-19 15:43:33,658] INFO com.deimos.controlrondas.netty.server.MessageHandlerJWM.execute(MessageHandlerJWM.java:50) - Nueva conexion del ID_Device: 99955511
+[2012-04-19 15:43:33,658] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 15:43:33,658] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 15:43:33,658] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515816; Lon: -4.7213; Date: 190412; GMT-0: 133116
+[2012-04-19 15:43:33,658] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 15:43:33,658] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 15:43:33,668] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515845; Lon: -4.72113; Date: 190412; GMT-0: 133316
+[2012-04-19 15:43:33,668] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 15:43:33,668] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 15:43:33,698] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.516206; Lon: -4.721168; Date: 190412; GMT-0: 133516
+[2012-04-19 15:43:33,698] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 15:43:33,698] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 15:43:33,698] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515741; Lon: -4.721195; Date: 190412; GMT-0: 133716
+[2012-04-19 15:43:33,698] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 15:43:33,698] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 15:43:33,698] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.51589; Lon: -4.721301; Date: 190412; GMT-0: 133916
+[2012-04-19 15:43:33,698] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 15:43:33,698] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 15:43:33,698] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.516056; Lon: -4.721111; Date: 190412; GMT-0: 134116
+[2012-04-19 15:43:33,698] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.parse(Parser_P5_GPS.java:37) - Mensaje GPS_TRACK recibido
+[2012-04-19 15:43:33,698] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:81) - GuardID: 00000000
+[2012-04-19 15:43:33,698] INFO com.deimos.controlrondas.parser.Parser_P5_GPS.handleTrackPoints(Parser_P5_GPS.java:98) - Enviamos nueva posicion a Kyros: Lat: 41.515863; Lon: -4.721306; Date: 190412; GMT-0: 134316

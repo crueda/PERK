@@ -1,0 +1,83 @@
+[2012-03-12 17:58:40,082] WARN com.deimos.controlrondas.netty.server.MessageHandler.execute(MessageHandler.java:36) - La cabecera recibida no es correcta
+[2012-03-12 17:58:40,663] WARN com.deimos.controlrondas.netty.server.MessageHandler.execute(MessageHandler.java:36) - La cabecera recibida no es correcta
+[2012-03-12 17:58:41,664] WARN com.deimos.controlrondas.netty.server.MessageHandler.execute(MessageHandler.java:36) - La cabecera recibida no es correcta
+[2012-03-12 17:58:42,536] WARN com.deimos.controlrondas.netty.server.MessageHandler.execute(MessageHandler.java:36) - La cabecera recibida no es correcta
+[2012-03-12 17:58:43,387] WARN com.deimos.controlrondas.netty.server.MessageHandler.execute(MessageHandler.java:36) - La cabecera recibida no es correcta
+[2012-03-12 18:19:47,649] WARN com.deimos.controlrondas.netty.server.MessageHandler.execute(MessageHandler.java:36) - La cabecera recibida no es correcta
+[2012-03-12 18:19:54,969] WARN com.deimos.controlrondas.netty.server.MessageHandler.execute(MessageHandler.java:36) - La cabecera recibida no es correcta
+[2012-03-12 18:19:55,160] WARN com.deimos.controlrondas.netty.server.MessageHandler.execute(MessageHandler.java:36) - La cabecera recibida no es correcta
+[2012-03-12 19:00:04,204] INFO com.deimos.controlrondas.netty.server.MessageHandler.execute(MessageHandler.java:31) - ID: 99955510
+[2012-03-12 19:00:04,214] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:00:04,274] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.51586; Lon: -4.720805; Date: 120312; GMT-0: 175652
+[2012-03-12 19:00:04,274] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:00:04,274] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.515953; Lon: -4.721438; Date: 120312; GMT-0: 175722
+[2012-03-12 19:00:04,274] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:00:04,274] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.515856; Lon: -4.72154; Date: 120312; GMT-0: 175753
+[2012-03-12 19:00:04,284] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:00:04,344] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.515786; Lon: -4.721648; Date: 120312; GMT-0: 175824
+[2012-03-12 19:00:04,354] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:00:04,354] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.515456; Lon: -4.721303; Date: 120312; GMT-0: 175854
+[2012-03-12 19:00:04,354] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:00:04,354] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.51784; Lon: -4.719566; Date: 120312; GMT-0: 175924
+[2012-03-12 19:00:04,354] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:00:04,354] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.520626; Lon: -4.716101; Date: 120312; GMT-0: 175954
+[2012-03-12 19:04:02,576] INFO com.deimos.controlrondas.netty.server.MessageHandler.execute(MessageHandler.java:31) - ID: 99955510
+[2012-03-12 19:04:02,576] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:04:02,576] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.525773; Lon: -4.713108; Date: 120312; GMT-0: 180053
+[2012-03-12 19:04:02,576] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:04:02,576] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.53039; Lon: -4.710656; Date: 120312; GMT-0: 180123
+[2012-03-12 19:04:02,576] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:04:02,576] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.53417; Lon: -4.711103; Date: 120312; GMT-0: 180153
+[2012-03-12 19:04:02,576] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:04:02,596] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.536231; Lon: -4.705848; Date: 120312; GMT-0: 180223
+[2012-03-12 19:04:02,596] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:04:02,596] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.536001; Lon: -4.703198; Date: 120312; GMT-0: 180253
+[2012-03-12 19:04:02,596] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:04:02,606] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.540645; Lon: -4.707155; Date: 120312; GMT-0: 180323
+[2012-03-12 19:04:02,606] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:04:02,606] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.548003; Lon: -4.706275; Date: 120312; GMT-0: 180353
+[2012-03-12 19:08:00,408] INFO com.deimos.controlrondas.netty.server.MessageHandler.execute(MessageHandler.java:31) - ID: 99955510
+[2012-03-12 19:08:00,408] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:08:00,418] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.5624; Lon: -4.711381; Date: 120312; GMT-0: 180452
+[2012-03-12 19:08:00,418] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:08:00,418] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.569811; Lon: -4.713643; Date: 120312; GMT-0: 180522
+[2012-03-12 19:08:00,418] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:08:00,418] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.5771; Lon: -4.712505; Date: 120312; GMT-0: 180552
+[2012-03-12 19:08:00,428] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:08:00,428] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.583905; Lon: -4.715478; Date: 120312; GMT-0: 180622
+[2012-03-12 19:08:00,428] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:08:00,428] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.590483; Lon: -4.720573; Date: 120312; GMT-0: 180652
+[2012-03-12 19:08:00,428] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:08:00,428] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.597621; Lon: -4.723441; Date: 120312; GMT-0: 180722
+[2012-03-12 19:08:00,428] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:08:00,428] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.605483; Lon: -4.724878; Date: 120312; GMT-0: 180752
+[2012-03-12 19:12:01,615] INFO com.deimos.controlrondas.netty.server.MessageHandler.execute(MessageHandler.java:31) - ID: 99955510
+[2012-03-12 19:12:01,615] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:12:01,615] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.61661; Lon: -4.726208; Date: 120312; GMT-0: 180851
+[2012-03-12 19:12:01,615] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:12:01,625] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.617331; Lon: -4.726196; Date: 120312; GMT-0: 180921
+[2012-03-12 19:12:01,625] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:12:01,625] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.61786; Lon: -4.726365; Date: 120312; GMT-0: 180951
+[2012-03-12 19:12:01,625] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:12:01,625] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.618143; Lon: -4.730881; Date: 120312; GMT-0: 181021
+[2012-03-12 19:12:01,625] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:12:01,635] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.619325; Lon: -4.735823; Date: 120312; GMT-0: 181051
+[2012-03-12 19:12:01,635] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:12:01,635] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.621645; Lon: -4.742691; Date: 120312; GMT-0: 181121
+[2012-03-12 19:12:01,635] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:12:01,635] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.622445; Lon: -4.747728; Date: 120312; GMT-0: 181151
+[2012-03-12 19:15:56,783] INFO com.deimos.controlrondas.netty.server.MessageHandler.execute(MessageHandler.java:31) - ID: 99955510
+[2012-03-12 19:15:56,803] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:15:56,803] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.625868; Lon: -4.756796; Date: 120312; GMT-0: 181251
+[2012-03-12 19:15:56,803] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:15:56,803] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.628536; Lon: -4.759548; Date: 120312; GMT-0: 181321
+[2012-03-12 19:15:56,803] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:15:56,813] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.631276; Lon: -4.764651; Date: 120312; GMT-0: 181351
+[2012-03-12 19:15:56,813] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:15:56,813] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.632776; Lon: -4.766198; Date: 120312; GMT-0: 181421
+[2012-03-12 19:15:56,813] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:15:56,813] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.634721; Lon: -4.762303; Date: 120312; GMT-0: 181451
+[2012-03-12 19:15:56,813] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:15:56,813] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.635438; Lon: -4.76158; Date: 120312; GMT-0: 181521
+[2012-03-12 19:15:56,813] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:27) - GPS_TRACK: 
+[2012-03-12 19:15:56,813] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:111) - Lat: 41.635455; Lon: -4.761566; Date: 120312; GMT-0: 181551

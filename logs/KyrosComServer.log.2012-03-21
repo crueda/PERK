@@ -1,0 +1,12 @@
+[2012-03-21 18:22:46,036] INFO com.deimos.controlrondas.netty.server.MessageHandler.execute(MessageHandler.java:31) - Nueva conexion del ID_Device: 99955510
+[2012-03-21 18:22:46,086] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:42) - Mensaje GPS_TRACK recibido
+[2012-03-21 18:22:46,086]ERROR com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:168) - Error: java.lang.ArrayIndexOutOfBoundsException: 5
+[2012-03-21 18:22:46,086] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:42) - Mensaje GPS_TRACK recibido
+[2012-03-21 18:22:46,086]ERROR com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:168) - Error: java.lang.ArrayIndexOutOfBoundsException: 5
+[2012-03-21 18:22:46,246] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:42) - Mensaje GPS_TRACK recibido
+[2012-03-21 18:22:46,246]ERROR com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:168) - Error: java.lang.ArrayIndexOutOfBoundsException: 5
+[2012-03-21 18:22:46,246] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:42) - Mensaje GPS_TRACK recibido
+[2012-03-21 18:22:46,246]ERROR com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:168) - Error: java.lang.ArrayIndexOutOfBoundsException: 5
+[2012-03-21 18:25:06,761] INFO com.deimos.controlrondas.netty.server.MessageHandler.execute(MessageHandler.java:31) - Nueva conexion del ID_Device: 99955510
+[2012-03-21 18:25:06,761] INFO com.deimos.controlrondas.parser.Parser.parse(Parser.java:42) - Mensaje GPS_TRACK recibido
+[2012-03-21 18:25:06,791] INFO com.deimos.controlrondas.parser.Parser.handleTrackPoints(Parser.java:166) - Enviamos nueva posicion a Kyros: Lat: 41.515658; Lon: -4.721458; Date: 210312; GMT-0: 172339
